@@ -3,3 +3,6 @@
 ################################################################################
 
 /GrpcService/gRpcClient/bin/Debug/net5.0
+/GrpcService/gRpcClient/obj
+/GrpcService/GrpcService/bin/Debug/net5.0
+/GrpcService/GrpcService/obj
