@@ -19,7 +19,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\GrpcService\GrpcService.csproj" />
 		<Protobuf Include="Protos\weatherForecast.proto" GrpcServices="Server" />
 		<Protobuf Include="Protos\weatherForecast.proto" GrpcServices="Client" />
 	</ItemGroup>
